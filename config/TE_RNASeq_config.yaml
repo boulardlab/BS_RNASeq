@@ -1,0 +1,28 @@
+experiment_folder:
+  "/g/boulard/Projects/BS_RNASeq/"
+input_samples_table:
+  "data/sequencing/samples_table.csv"
+fastq_input_dir:
+  "data/sequencing/fastq/"
+seq_output_dir:
+  "data/sequencing/"
+genome_dir:
+  "data/genome/"
+maj_chr_bed:
+  "data/genome/mm10_maj_chr.bed"
+annotation_dir:
+  "data/annotations/"
+gene_annotation_bed:
+  "data/annotations/gencode.vM25.annotation.bed"
+TE_annotation_bed:
+  "data/annotations/RepeatMasker_RepeatLibrary20140131_mm10.bed"
+analysis_output_dir:
+  "analysis/"
+tmp_dir:
+  "tmp/"
+envs_folder:
+  "/g/boulard/Projects/BS_RNASeq/env/conda/"
+script_dir:
+  "src/"
+containers_folder:
+  "/g/boulard/Projects/BS_RNASeq/singularity/containers/"

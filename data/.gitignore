@@ -1,0 +1,7 @@
+/*
+!README.md
+!.gitignore
+sequencing/*
+!sequencing/qc/
+!sequencing/samples_table.csv
+!sequencing/library_size.txt
