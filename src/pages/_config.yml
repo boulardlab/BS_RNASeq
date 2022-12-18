@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Analysis of Transposable Elements expression for project Boulard - Stork
+title: Analysis of Transposable Elements expression for project Boulard - Storck
 email: sara.formichetti92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Analysis of RNASeq data for TE expression for Boulard-Storck project
