@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/573526385.svg)](https://zenodo.org/badge/latestdoi/573526385)
+
 # Analysis of Transposable Elements (TEs) expression from RNA-Seq data for project Boulard - Stork
 
 * Until featureCounts output, analysis is performed using snakemake pipeline in snake-make/TE_RNASeq.Snakefile.
